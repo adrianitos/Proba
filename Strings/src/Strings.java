@@ -9,7 +9,7 @@ public class Strings {
 		String holamundo = hola + mundo;
 		
 		StringBuffer holamundoBuffer = new StringBuffer();
-		holamundoBuffer.append("Hola, ");
+		holamundoBuffer.append("Hola i adeu Andreu, ");
 		holamundoBuffer.append("buffer");
 
 		String holamundoBuf = holamundoBuffer.toString();
